@@ -1,3 +1,5 @@
+pip install https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
+
 import streamlit as st
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
