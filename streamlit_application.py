@@ -1,4 +1,4 @@
-pip install https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
+pip install scikit-learn
 
 import streamlit as st
 import pandas as pd
