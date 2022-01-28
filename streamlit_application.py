@@ -1,5 +1,5 @@
-pip install scikit-learn
-
+pip uninstall -v scikit-learn
+pip install -v scikit-learn
 import streamlit as st
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
